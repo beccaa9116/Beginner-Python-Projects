@@ -6,3 +6,4 @@ a few projects I used to get more comfortable with Python programming
 3. Rock, paper, scissors game - with a bit of a loop practice so the game can go on and on
 4. Snake game - most of the code and inspiration goes to Geeksforgeeks: https://www.geeksforgeeks.org/create-a-snake-game-using-turtle-in-python/
 5. Currency converter - a very simple one, not a realtime one, for practice of using multiple inputs, loops and combinations :)
+6. Minesweeper game
