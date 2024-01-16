@@ -7,3 +7,5 @@ a few projects I used to get more comfortable with Python programming
 4. Snake game - most of the code and inspiration goes to Geeksforgeeks: https://www.geeksforgeeks.org/create-a-snake-game-using-turtle-in-python/
 5. Currency converter - a very simple one, not a realtime one, for practice of using multiple inputs, loops and combinations :)
 6. Minesweeper game
+7. Solving sudoku using Python program
+8. Generating QR code for URL from user input - the QR code is automatically saved as an image 
