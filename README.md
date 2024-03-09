@@ -1,5 +1,5 @@
 # Beginner-Python-Projects
-a few projects I used to get more comfortable with Python programming
+a few beginner to intermediate projects I have done to get more comfortable with Python programming
 
 1. Madlibs - a very basic practice of using inputs and strings
 2. Calculator - fun fact: ever since I started programming, the first thing I try to do in any programming language is a calculator, and Python cannot be an exception, let's gooo
@@ -8,4 +8,6 @@ a few projects I used to get more comfortable with Python programming
 5. Currency converter - a very simple one, not a realtime one, for practice of using multiple inputs, loops and combinations :)
 6. Minesweeper game
 7. Solving sudoku using Python program
-8. Generating QR code for URL from user input - the QR code is automatically saved as an image 
+8. Generating QR code for URL from user input - the QR code is automatically saved as an image
+9. Math Challenge generator that will generate 10 math problems and measure your solving time
+10. Digital Clock
