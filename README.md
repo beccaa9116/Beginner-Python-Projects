@@ -13,3 +13,4 @@ a few beginner to intermediate projects I have done to get more comfortable with
 10. Digital Clock
 11. Alarm Clock - a timer that will count down time based on user input and play a sound when the time is up :)
 12. A very simple dice roll simulator - a code generating two random numbers from 1 to 6 to simulate rolling of dice
+13. Password generator
