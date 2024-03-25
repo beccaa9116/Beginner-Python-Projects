@@ -12,3 +12,4 @@ a few beginner to intermediate projects I have done to get more comfortable with
 9. Math Challenge generator that will generate 10 math problems and measure your solving time
 10. Digital Clock
 11. Alarm Clock - a timer that will count down time based on user input and play a sound when the time is up :)
+12. A very simple dice roll simulator - a code generating two random numbers from 1 to 6 to simulate rolling of dice
